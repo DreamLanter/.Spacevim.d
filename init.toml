@@ -80,6 +80,3 @@ filetypes = [
 
 [[layers]]
   name = "tools#dash"
-
-[[layers]]
-  name = "chat"
